@@ -5,8 +5,7 @@
 </h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
 
-<!-- [<img align="center" src="https://github-spotify-maarijmalik010.vercel.app/api/spotify" alt="Mingo Spotify" width="350" />](https://open.spotify.com/user/maarijmalik010)  -->
-
+ [<img src="https://novatorem-kappa-pied.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/maarijmalik010)
 
 [![Spotify](https://novatorem-kappa-pied.vercel.app/api/spotify)](https://open.spotify.com/playlist/1k17vOWnpNqVsrsHvGOgnl)
 
