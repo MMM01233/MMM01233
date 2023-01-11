@@ -8,7 +8,7 @@
 <!-- [<img align="center" src="https://github-spotify-maarijmalik010.vercel.app/api/spotify" alt="Mingo Spotify" width="350" />](https://open.spotify.com/user/maarijmalik010)  -->
 
 
-[![Spotify](https://novatorem-wheat-delta.vercel.app/api/spotify)](https://open.spotify.com/playlist/1k17vOWnpNqVsrsHvGOgnl)
+[![Spotify](https://novatorem-kappa-pied.vercel.app/api/spotify)](https://open.spotify.com/playlist/1k17vOWnpNqVsrsHvGOgnl)
 
 </br>
 
