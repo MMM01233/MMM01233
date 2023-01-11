@@ -5,8 +5,7 @@
 </h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
 
-[<img src="https://novatorem-inky-phi.vercel.app/api/spotify" alt="Maarijs Spotify Playing" width="350" />](https://open.spotify.com/playlist/1k17vOWnpNqVsrsHvGOgnl)
-
+[![Spotify](https://novatorem-inky-phi.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DX5Vy6DFOcx00)
 
 </br>
 
